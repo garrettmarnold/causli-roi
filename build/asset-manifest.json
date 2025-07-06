@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clausly-roi/static/css/main.2e7ba3ae.css",
+    "main.js": "/clausly-roi/static/js/main.a99e9ee7.js",
+    "index.html": "/clausly-roi/index.html",
+    "main.2e7ba3ae.css.map": "/clausly-roi/static/css/main.2e7ba3ae.css.map",
+    "main.a99e9ee7.js.map": "/clausly-roi/static/js/main.a99e9ee7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e7ba3ae.css",
+    "static/js/main.a99e9ee7.js"
+  ]
+}
